@@ -1,0 +1,6 @@
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+.ninja*
+*.ninja
+error_handling_perf
